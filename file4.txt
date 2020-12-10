@@ -1,0 +1,10 @@
+.
+..
+.DS_Store
+.git
+README.md
+file1.py
+file2.c
+file3.txt
+file4.txt
+sub1
